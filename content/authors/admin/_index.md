@@ -22,7 +22,7 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Студент физико-математического факультета РУДН по специальности "Математика и механика". 
+bio: Студент физико-математического факультета РУДН, специальность "Математика и механика". 
 
 # Interests to show in About widget
 interests:
@@ -54,10 +54,28 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/eakolobova
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://github.com/eakolobova
+  - icon: github
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://elibrary.ru/defaultx.asp
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0001-5800-1351
+  - icon: elsevier
+    icon_pack: ai
+    link: https://www.mendeley.com/search/
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Elisaveta-Kolobova
+  - icon: academia
+    icon_pack: ai
+    link: https://independent.academia.edu/ElisavetaKolobova
+  - icon: arxiv
+    icon_pack: ai
+    link: https://arxiv.org
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -72,5 +90,5 @@ email: ''
 highlight_name: true
 ---
 
-Елизавета Колобова студент Российского университета дружбы народов по специальности "Математика и механика".
+Елизавета Колобова студент Российского университета дружбы народов специальности "Математика и механика".
 {style="text-align: justify;"}
